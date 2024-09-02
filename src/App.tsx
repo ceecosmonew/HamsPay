@@ -165,7 +165,7 @@ return () => clearInterval(interval);}, [profitPerHour]);
 
 </div>
   <div>
-<p className="text-sm">HAMSPAYkk</p>
+<p className="text-sm">HAMSPAYhh</p>
 
 </div>
   </div>
@@ -294,7 +294,7 @@ return () => clearInterval(interval);}, [profitPerHour]);
   <p className="mt-1">Mine</p>
   </div>
   <div className="text-center text-[#85827d] w-1/5"><Friends className="w-8 h-8 mx-auto"/>
-  <p className="mt-1">Friendsb</p>
+  <p className="mt-1">Friends</p>
   </div>
   <div className="text-center text-[#85827d] w-1/5"><Coins className="w-8 h-8 mx-auto"/>
   <p className="mt-1">Earn</p>
