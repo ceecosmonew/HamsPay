@@ -294,7 +294,7 @@ return () => clearInterval(interval);}, [profitPerHour]);
   <p className="mt-1">Mine</p>
   </div>
   <div className="text-center text-[#85827d] w-1/5"><Friends className="w-8 h-8 mx-auto"/>
-  <p className="mt-1"><a href="/hamspage.tsx">Friendsv</p>
+  <p className="mt-1"><a href="/hamspage.tsx">Friendsv</a></p>
   </div>
   <div className="text-center text-[#85827d] w-1/5"><Coins className="w-8 h-8 mx-auto"/>
   <p className="mt-1">Earn</p>
