@@ -165,7 +165,7 @@ return () => clearInterval(interval);}, [profitPerHour]);
 
 </div>
   <div>
-<p className="text-sm">HAMSPAY</p>
+<p className="text-sm">HAMSPAYkk</p>
 
 </div>
   </div>
