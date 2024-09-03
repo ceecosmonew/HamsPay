@@ -1,4 +1,5 @@
 
+    
     import HOME from '../src/App'
     import CURRICULUM from '../src/hamspage'
    
@@ -14,8 +15,8 @@ function mmain() {
           <Router>
           <Routes>
          
-          <Route  path='/' element={<HOME/>}/>
-          <Route  path='/hamspage' element={<CURRICULUM/>}/>
+          <Route path='/' element={<HOME/>}/>
+          <Route path='/hamspage' element={<CURRICULUM/>}/>
         
          
          
